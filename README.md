@@ -16,6 +16,13 @@ Schematic diagram
 PCB diagram 
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/b7d948d9-6d0d-47eb-a246-c7ea599668e0" />
 
+BOM 
+<img width="3349" height="204" alt="image" src="https://github.com/user-attachments/assets/92f23682-b13c-4aeb-83dc-7996e45b203a" />
+
+Zine
+<img width="419" height="595" alt="image" src="https://github.com/user-attachments/assets/172d3744-dda0-4c45-8308-c009e4c130c6" />
+
+
 
 
 
