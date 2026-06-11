@@ -1,0 +1,7 @@
+Item ,Purpose ,Source ,Price (Malaysia Currency),Price (usd),Total (tax+shipping),Subtotal (MYR),Subtotal (USD),Link
+PCB ,Connect electronic component ,JLCPCB,153,2,1.5,,3.5,
+XIAO ESP32C3,Development board,Seed Studio,2.09,4.66,0,,4.66,
+HS HS96L03W2C03,Oled screen ,LCSC Electronic,2.29,2.29,16.7,,21.06,https://www.lcsc.com/product-detail/C5248080.html?spm=wm.gwc.xh.0.cbm___wm.sxq.ssl.gwc&lcsc_vid=QAJZUQBVTwJaVlxXRgBYA1RfEVYNAQZXFgcNUFMHE1ExVlNeRlBbXlJQQFddVTsOAxUeFF5JWAcPCwgJAhVADwUFHAICEgZIFA4DSA%3D%3D
+XHXDZ 1207-P6.5MM,Buzzer,LCSC Electronic,4,0.57,,,,https://www.lcsc.com/product-detail/C49246964.html?spm=wm.gwc.xh.1.cbm___wm.sxq.ssl.gwc&lcsc_vid=QAJZUQBVTwJaVlxXRgBYA1RfEVYNAQZXFgcNUFMHE1ExVlNeRlBbXlJQQFddVTsOAxUeFF5JWAcPCwgJAhVADwUFHAICEgZIFA4DSA%3D%3D
+BZCN TSC016A04518A,Tactile switches ,LCSC Electronic,106.79,0.54,,,,https://www.lcsc.com/product-detail/C2888493.html?spm=wm.gwc.xh.2.cbm___wm.sxq.ssl.gwc&lcsc_vid=QAJZUQBVTwJaVlxXRgBYA1RfEVYNAQZXFgcNUFMHE1ExVlNeRlBbXlJQQFddVTsOAxUeFF5JWAcPCwgJAhVADwUFHAICEgZIFA4DSA%3D%3D
+Nyfea SHT40-N-NF,Temperature sensor,LCSC Electronic,1.53,0.96,,,,https://www.lcsc.com/product-detail/C54946589.html?spm=wm.gwc.xh.3.cbm___wm.sxq.ssl.gwc&lcsc_vid=QAJZUQBVTwJaVlxXRgBYA1RfEVYNAQZXFgcNUFMHE1ExVlNeRlBbXlJQQFddVTsOAxUeFF5JWAcPCwgJAhVADwUFHAICEgZIFA4DSA%3D%3D
