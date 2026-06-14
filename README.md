@@ -23,7 +23,9 @@ Zine
 
 <img width="419" height="595" alt="image" src="https://github.com/user-attachments/assets/172d3744-dda0-4c45-8308-c009e4c130c6" />
 
-
+Reference 
+- Hatsune Soup
+- Amogus 
 
 
 
